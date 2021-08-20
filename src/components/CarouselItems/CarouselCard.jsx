@@ -2,7 +2,6 @@ import React from 'react';
 import img1 from '../../assets/info.png';
 import img2 from '../../assets/hacking.png';
 import img3 from '../../assets/wifi.png';
-import * as FiIcons from 'react-icons/fi'
 
 import { 
     CardContainer,
@@ -48,7 +47,7 @@ const CarouselCard = () => {
             <>
                 <CardContainer key={index}>
                     <InnerCardContainer border={item.border} >
-                        <CardTitle>{item.name} <a href={item.link} target="_blank"><HyperLink/></a> </CardTitle>
+                        <CardTitle>{item.name} <a href={item.link} target="_blank" rel="noreferrer"><HyperLink/></a> </CardTitle>
                         <CardLanguages>{item.languages}</CardLanguages>
                         <CardDesc>{item.description}</CardDesc>
                         <Symbol src={item.icon} alt="https://www.freepik.com"/>
