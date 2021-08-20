@@ -51,7 +51,7 @@ const CarouselCard = () => {
                         <CardTitle>{item.name} <a href={item.link} target="_blank"><HyperLink/></a> </CardTitle>
                         <CardLanguages>{item.languages}</CardLanguages>
                         <CardDesc>{item.description}</CardDesc>
-                        <Symbol src={item.icon}/>
+                        <Symbol src={item.icon} alt="https://www.freepik.com"/>
                     </InnerCardContainer>
                 </CardContainer>
             </>

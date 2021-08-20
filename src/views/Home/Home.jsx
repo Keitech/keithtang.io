@@ -39,7 +39,7 @@ const Home = () => {
                         <SocialItems/>
                     </SocialContainer>
                     <ProfileContainer>
-                        <ProfileImg src={image}/>
+                        <ProfileImg src={image} alt="https://www.pinterest.ca/pin/567523990538356835/"/>
                     </ProfileContainer>
                     <DescriptionContainer>
                         <Name>Hi, I am Keith</Name>

@@ -29,7 +29,7 @@ const About = () => {
                         </AboutDescription>
                     </DescriptionContainer>
                     <ProfileContainer>
-                        <AboutImg src={aboutimg}/>
+                        <AboutImg src={aboutimg} alt="https://dribbble.com/shots/9078494-Developer"/>
                     </ProfileContainer>
                 </CenterContainer>
                 
