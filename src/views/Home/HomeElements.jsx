@@ -24,6 +24,9 @@ export const CenterContainer = styled.div`
     flex-direction: column;
     align-items: center;
   }
+  @media screen and (max-width: 414px) {
+    margin-top: 100px;
+  }
 `;
 
 export const SocialContainer = styled.div`
