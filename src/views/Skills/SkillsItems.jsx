@@ -27,7 +27,7 @@ export const Technologies = [
         technology: "CSS"
     },
     {
-        icon: <SiIcons.SiGroovy />,
+        icon: <SiIcons.SiApachegroovy />,
         technology: "Groovy"
     },
     {
@@ -66,7 +66,7 @@ export const Interests = [
         technology: "Artifical Intelligence"
     },
     {
-        icon: <AiIcons.AiFillLinkedin />,
+        icon: <GiIcons.GiSteampunkGoggles />,
         technology: "Virtual Reality"
     },
     {
@@ -74,7 +74,7 @@ export const Interests = [
         technology: "UI + UX Design"
     },
     {
-        icon: <AiIcons.AiFillLinkedin />,
+        icon: <RiIcons.RiPhoneLockLine />,
         technology: "Cyber Security"
     },
     {
