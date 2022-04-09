@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../../assets/2021resume.pdf'
+import resume from '../../assets/resume2022.pdf'
 import { SidebarContainer, Icon, CloseIcon, SidebarWrapper, SidebarMenu, SidebarLink, SidebarResume } from './SidebarElements';
 
 const Sidebar = ({ toggle, isOpen }) => {

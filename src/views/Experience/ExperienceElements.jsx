@@ -72,7 +72,7 @@ export const UnorderList = styled.ul`
 export const ListLabel = styled.label`
 	display: flex;
 	align-items: center;
-	color: #1E90FF;
+	color: ${props => props.color};
 	font-size: 1.25rem;
 	text-transform: uppercase;
 	cursor: pointer;
@@ -83,7 +83,7 @@ export const ListLabel = styled.label`
     height: 1.125rem;
     width: 1.125rem;
     margin-right: 0.625rem;
-    border: 0.5rem solid #1E90FF;
+    border: 0.5rem solid ${props => props.color};
     border-radius: 50%;
     transition: all 0.25s linear;
   }
@@ -109,7 +109,7 @@ export const RadioButton = styled.input`
 		&::before {
     margin-right: 2rem;
     border: 0.5rem solid #282828;
-    background: #1E90FF;
+    background: ${props => props.color};
 		}
 	}
 `;
