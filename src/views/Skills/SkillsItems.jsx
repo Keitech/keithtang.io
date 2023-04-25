@@ -9,10 +9,30 @@ export const Technologies = [
     {
         icon: <SiIcons.SiPython />,
         technology: "Python"
+    },    
+    {
+        icon: <SiIcons.SiReact />,
+        technology: "ReactJs"
     },
     {
         icon: <SiIcons.SiJavascript />,
         technology: "JavaScript"
+    },
+    {
+        icon: <FaIcons.FaAws />,
+        technology: "AWS"
+    },
+    {
+        icon: <SiIcons.SiGooglecloud />,
+        technology: "GCP"
+    },
+    {
+        icon: <SiIcons.SiRedux />,
+        technology: "Redux"
+    },
+    {
+        icon: <SiIcons.SiFlask />,
+        technolog: "Flask"
     },
     {
         icon: <SiIcons.SiJava />,
@@ -30,10 +50,7 @@ export const Technologies = [
         icon: <SiIcons.SiApachegroovy />,
         technology: "Groovy"
     },
-    {
-        icon: <SiIcons.SiReact />,
-        technology: "ReactJs"
-    },
+
     {
         icon: <SiIcons.SiGit />,
         technology: "Git"

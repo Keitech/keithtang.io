@@ -22,7 +22,7 @@ const About = () => {
                         </AboutTitle>
                         <Line/>
                         <AboutDescription>
-                            Currently a 4th year computer engineering student with one year of industrial knowledge. Always looking for new opportunities that can challenge my potential to become the best developer I can be!
+                            Currently a Full Stack Software Developer with 2+ years of industrial knowledge. Always looking for new opportunities that can challenge my potential to become the best developer I can be!
                         </AboutDescription>
                         <AboutDescription>
                             I am always interested in exploring new technologies and how it impacts the real world. Aside from that you can probably find me in the gym, working on projects, playing volleyball or gaming away!
