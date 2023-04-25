@@ -32,7 +32,7 @@ export const Technologies = [
     },
     {
         icon: <SiIcons.SiFlask />,
-        technolog: "Flask"
+        technology: "Flask"
     },
     {
         icon: <FaIcons.FaJava />,

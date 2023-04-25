@@ -39,7 +39,7 @@ const ExperienceValues = [
     {
         title: "Full Stack Developer",
         date: "Feb 2022 - Present",
-        description: "Collaborated with a team of 5 developers to integrate external APIs into web applications with optimal flexibility, efficiency, and readability. Architected, designed, and developed 50+ features following agile software development methodologies using React.js, Redux, and Python. Reduced api traffic and implemented state caching for BigQuery operations, decreasing page load times by 60%",
+        description: "Collaborated with a team of 5 developers to integrate external APIs into web applications with optimal flexibility, efficiency, and readability. Architected, designed, and developed 50+ features following agile software development methodologies using React.js, Redux, and Python. Reduced api traffic and implemented state caching for GCP operations, decreasing page load times by 60%.",
         color: "#22D900"
     }
 ]
