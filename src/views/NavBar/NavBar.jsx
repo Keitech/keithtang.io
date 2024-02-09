@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../../assets/resume2022.pdf'
+import resume from '../../assets/KeithTangResume2024.pdf'
 import { FaBars } from 'react-icons/fa';
 import {animateScroll as scroll} from 'react-scroll';
 import {
